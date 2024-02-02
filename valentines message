@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Valentine's Message</title>
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #ffe6e6;
+        text-align: center;
+        padding-top: 50px;
+    }
+    .message {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    .heart {
+        color: red;
+        font-size: 30px;
+    }
+    .bear {
+        width: 100px;
+        margin: 20px auto;
+    }
+</style>
+</head>
+<body>
+<div class="message">
+    Will you be my Valentine?
+</div>
+<div class="heart">❤️</div>
+<img class="bear" src="https://i.postimg.cc/wjDxJgPf/teddy-bear.png" alt="bear">
+</body>
+</html>
